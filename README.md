@@ -101,7 +101,7 @@ These visualizations provide immediate feedback on the accuracy and stability of
 
 ## 👨‍💻 Author
 
-Developed by **[arielpincayy]**  
+Developed by **arielpincayy**  
 If you use or modify this code, please cite the repository or acknowledge the original author.
 
 Feel free to reach out for questions, collaborations, or improvements!
